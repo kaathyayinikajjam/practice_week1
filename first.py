@@ -54,12 +54,13 @@
 
 first_input = float(input("Enter the first number: "))
 second_input = float(input("Enter the second number: "))
+third_input = float(input("Enter the third number: "))
 
-addition = first_input + second_input
+addition = first_input + second_input + third_input
 
-substraction = first_input - second_input
+substraction = first_input - second_input - third_input
 
-multiplication = first_input * second_input
+multiplication = first_input * second_input * third_input
 
 division = first_input / second_input
 
